@@ -27,8 +27,8 @@ echo "# Compile set of modules to out/modules"
 echo "#"
 mkdir -p out/modules
 make CC=clang CROSS_COMPILE=aarch64-linux-gnu- CROSS_COMPILE_ARM32=arm-linux-gnueabi- O=out modules_prepare 
-make CC=clang CROSS_COMPILE=aarch64-linux-gnu- CROSS_COMPILE_ARM32=arm-linux-gnueabi- O=out modules_install INSTALL_MOD_PATH=$CURRENTDIR/out/modules
 make CC=clang CROSS_COMPILE=aarch64-linux-gnu- CROSS_COMPILE_ARM32=arm-linux-gnueabi- O=out modules INSTALL_MOD_PATH=$CURRENTDIR/out/modules
+make CC=clang CROSS_COMPILE=aarch64-linux-gnu- CROSS_COMPILE_ARM32=arm-linux-gnueabi- O=out modules_install INSTALL_MOD_PATH=$CURRENTDIR/out/modules
 echo -e "\033[1;36mPress enter to continue \e[0m"
 read a1
 
