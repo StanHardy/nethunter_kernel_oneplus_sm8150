@@ -136,5 +136,4 @@ kernelzip/
 *.log
 *.txt
 *.py
-*.sh
 out/
