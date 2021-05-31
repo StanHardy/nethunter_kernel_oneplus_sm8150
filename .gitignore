@@ -137,3 +137,4 @@ kernelzip/
 *.txt
 *.py
 out/
+compiler/
