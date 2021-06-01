@@ -1,13 +1,13 @@
 {
   "kernel": {
-    "name": "Dora Kernel",
-    "version": "v1.5",
-    "link": "https://github.com/nem0-z/dora_kernel_oneplus_sm8150/releases/download/1.5/Dora-Kernel-v1.5-sdcard_fs.zip",
-    "changelog_url": "https://raw.githubusercontent.com/nem0-z/dora_kernel_oneplus_sm8150/master/ota/changelog",
-    "date": "2021-05-30",
-    "sha1": "525c582109c2fee438600878a53dd8764d2661fa"
+    "name": "NetHunter Kernel",
+    "version": "4.14.234",
+    "link": "https://github.com/cyberknight777/nethunter_kernel_oneplus_sm8150/releases/download/v1.0/kernel-nethunter-oneplus7-all-20210531-sdcardfs-signed.zip",
+    "changelog_url": "https://raw.githubusercontent.com/cyberknight777/nethunter_kernel_oneplus_sm8150/master/ota/changelog",
+    "date": "2021-06-02",
+    "sha1": "f319b18a87c7201a43c1a8a5702472df396b60bb"
   },
   "support": {
-    "link": "https://t.me/nem0kernel"
+    "link": "https://t.me/neternels_chat"
   }
 }
